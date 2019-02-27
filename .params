@@ -1,0 +1,5 @@
+{
+  "ASSISTANT_IAM_APIKEY": "<add_assistant_apikey>",
+  "ASSISTANT_IAM_URL": "<add_assistant_url>",
+  "WORKSPACE_ID": "<add_assistant_workspace_id>"
+}
