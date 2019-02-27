@@ -1,5 +1,5 @@
 {
-  "ASSISTANT_IAM_APIKEY": "<add_assistant_apikey>",
-  "ASSISTANT_IAM_URL": "<add_assistant_url>",
-  "WORKSPACE_ID": "<add_assistant_workspace_id>"
+  "ASSISTANT_IAM_APIKEY": "8O7c4lVrMmvjk1yqm3qxWPAAQqhH5YsxX42lZs1Iyhwb",
+  "ASSISTANT_IAM_URL": "https://gateway.watsonplatform.net/assistant/api",
+  "WORKSPACE_ID": "76fb5c0d-9468-47eb-ab22-4b22e6ff9c4c"
 }
